@@ -1,0 +1,94 @@
+<background>
+  <starttime>
+    <year>2021</year>
+    <month>05</month>
+    <day>10</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>18000.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-1.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-1.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-2.jpg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>5395</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-2.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-2.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-3.jpg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-3.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-3.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-4.jpg</to>
+  </transition>
+  <!-- 12:00 -->
+  <static>
+    <duration>5395.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-4.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-4.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-5.jpg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>5395.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-5.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-5.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-6.jpg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>16195.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-6.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-6.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-7.jpg</to>
+  </transition>
+  <!-- 19:00 -->
+  <static>
+    <duration>5395.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-7.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-7.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-8.jpg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>5395.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-8.jpg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-8.jpg</from>
+    <to>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-1.jpg</to>
+  </transition>
+    <static>
+    <duration>17995.0</duration>
+    <file>/usr/share/backgrounds/BigSur/macOS-Big-Sur-Daylight-Wallpaper-iDownloadBlog-8.jpg</file>
+  </static>
+</background>
