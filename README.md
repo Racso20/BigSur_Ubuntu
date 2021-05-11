@@ -3,7 +3,7 @@
 - INSTALAR GNOME-TWEAK
  
 
-**DESCARGAR IMAGENES Y CONFIGURACION*
+**DESCARGAR IMAGENES Y CONFIGURACION**
 ```
 user@host:~# git clone https://github.com/Racso20/BigSur_Ubuntu.git
 Clonando en 'BigSur_Ubuntu'...
